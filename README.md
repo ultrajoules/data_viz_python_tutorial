@@ -4,16 +4,16 @@ Take data and turn it into something colorful, graphical and meaningful :)
 An introduction to basic data visualizations using Pandas, Matplotlib, Seaborn, and Plotnine all combined in a single Jupyter Notebook.
 
 ## Intro
-Data visualization allows data scientists to graphically represent data to extract and understand trend, outlies, patterns and further insights in the data. 
+Data visualization allows data scientists to graphically represent data to extract and understand trends, outliers, patterns and further insights in the data. 
 
 Python has many **many** graphing libraries with different features and it can be daunting to know which library to use.  This intro tutorial will focus on a few popular plotting libraries:
 * **Pandas** - built on Matplotlib and easy to use with Pandas dataframes
 * **Matplotlib** - massive library with lots of flexibility (stackoverflow will be your friend!)
-* **Seaborn** - statistical visualization with default themes and beutiful styles
+* **Seaborn** - statistical visualization with default themes and beautiful styles
 * **Plotnine** - based on gglot2 for all my R peeps!
 
 
-This tutorial compares Matplotlib, Pandas, Seaborn and Plotnine for the following visualizationsL
+This tutorial compares Matplotlib, Pandas, Seaborn and Plotnine for the following visualizations:
 * Scatter Plots 
 * Line Charts 
 * Histograms 
