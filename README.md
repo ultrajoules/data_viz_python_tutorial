@@ -35,12 +35,12 @@ For interactive plots and possibly a feature tutorial
 * Run the 1st block of code in Data_Viz_Tutorial to make sure all pacakges are installed!  
 
 You can pip or conda install the following packages:
-`pandas`
-`matplotlib`
-`seaborn`
-`numpy`
-`plotnine`
-`scikit-learn`
+`pandas` version 1.0.5
+`matplotlib` version 3.2.2
+`seaborn` version 0.10.1
+`numpy` version 1.19.0 (should install with Pandas)
+`plotnine` version 0.7.0
+`scikit-learn` version 0.23.1
 
 ## Usage
 Data_Viz_Tutorial notebook is intended to be used for live coding during the technical talk but if you get behind or run into errors, you can use Data_Viz_Tutorial_Solution to check your work.
