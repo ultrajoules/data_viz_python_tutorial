@@ -1,7 +1,8 @@
 # Data Visualization in Python
 Take data and turn it into something colorful, graphical and meaningful :)
 
-An introduction to basic data visualizations using Pandas, Matplotlib, Seaborn, and Plotnine all combined in a single Jupyter Notebook.
+This is a basic introduction to basic data visualizations using Pandas, Matplotlib, Seaborn, and Plotnine all combined in a single Jupyter Notebook.
+Since the purpose of data analysis is to gain insights, data is much more valuable when it is visualized.
 
 ## Intro
 Data visualization allows data scientists to graphically represent data to extract and understand trends, outliers, patterns and further insights in the data. 
